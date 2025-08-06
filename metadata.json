@@ -1,0 +1,8 @@
+{
+  "name": "TagMyKid",
+  "description": "A web application for parents to generate QR code tags for their children's belongings. When a lost item is found, the QR code can be scanned to easily notify the parent via WhatsApp, ensuring a quick and private return.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
